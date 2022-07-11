@@ -5,7 +5,7 @@
 //  Created by 김유권 on 2022/07/11.
 //
 
-import XCTest
+import XCTest ggg
 
 class github_testUITests: XCTestCase {
 
